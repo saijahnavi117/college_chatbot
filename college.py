@@ -46,7 +46,7 @@ def find_closest_question(user_query, vectorizer, question_vectors, df):
         return None
 
 # Streamlit app
-st.title("College Chatbot 🎓")
+st.title("SVECW College Chatbot 🎓")
 st.write("Welcome to the College Chatbot! Ask me anything about the college.")
 
 # Display chat history
